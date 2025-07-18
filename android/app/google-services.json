@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001012449490",
+    "project_id": "track2go-8952c",
+    "storage_bucket": "track2go-8952c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001012449490:android:22ddd8aa594d0900995d0b",
+        "android_client_info": {
+          "package_name": "com.example.track2go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaUcmTyCFZy03IZWUR9jytVBlN3U6wgGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

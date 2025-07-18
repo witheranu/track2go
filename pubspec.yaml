@@ -1,0 +1,34 @@
+name: track2go
+description: A new Flutter project.
+
+publish_to: "none" # Remove this if publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.3
+  cloud_firestore: ^4.13.2
+  firebase_database: ^10.4.3
+  google_maps_flutter: ^2.5.3
+  geolocator: ^11.1.0
+  permission_handler: ^11.3.0
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^4.0.0
+  upi_india: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  # Add any assets below like this:
+  # assets:
+  #   - assets/images/
